@@ -1,1 +1,2 @@
 # MagnifyingGlassEffect
+用jQuery实现放大镜效果
